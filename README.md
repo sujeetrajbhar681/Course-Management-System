@@ -31,47 +31,6 @@ The **Online Course Management System** is a session-based web application built
 - bcrypt
 
 ---
-
-## 📂 Project Structure
-
-```
-CourseManagementSystem/
-│
-├── app.js
-├── db.js
-├── package.json
-│
-├── models/
-│   ├── userModel.js
-│   └── courseModel.js
-│
-├── controllers/
-│   ├── userController.js
-│   └── courseController.js
-│
-├── middleware/
-│   └── auth.js
-│
-├── routes/
-│   ├── userRoute.js
-│   └── courseRoute.js
-│
-├── public/
-│   └── css/
-│       └── style.css
-│
-├── views/
-│   ├── partials/
-│   ├── register.ejs
-│   ├── login.ejs
-│   ├── dashboard.ejs
-│   ├── courses.ejs
-│   ├── create-course.ejs
-│   └── edit-course.ejs
-│
-└── Screenshots/
-```
-
 ---
 
 ## ⚙️ Installation
@@ -118,15 +77,15 @@ http://localhost:4000
 
 ## 📸 Screenshots
 
-### Register Page
+### Register
 
-![Register Page](Screenshots/register.png)
+![Register](Screenshots/register.png)
 
 ---
 
-### Login Page
+### Login
 
-![Login Page](Screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ---
 
@@ -144,7 +103,7 @@ http://localhost:4000
 
 ### Display Courses
 
-![Courses List](Screenshots/courses-list.png)
+![Display Courses](Screenshots/courses-list.png)
 
 ---
 
@@ -156,13 +115,13 @@ http://localhost:4000
 
 ### Delete Course (Before)
 
-![Delete Before](Screenshots/delete-before.png)
+![Delete Course Before](Screenshots/delete-before.png)
 
 ---
 
 ### Delete Course (After)
 
-![Delete After](Screenshots/delete-after.png)
+![Delete Course After](Screenshots/delete-after.png)
 
 ---
 

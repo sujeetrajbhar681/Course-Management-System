@@ -30,39 +30,39 @@ Visit: `http://localhost:4000`
 
 **Register Page**
 
-![Register](Screenshots/register.png)
+![Register](screenshots/register.png)
 
 **Login Page**
 
-![Login](Screenshots/login.png)
+![Login](screenshots/login.png)
 
 **Dashboard**
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 **Add Course**
 
-![Add Course](Screenshots/add-course.png)
+![Add Course](screenshots/add-course.png)
 
 **Display Courses**
 
-![Courses List](Screenshots/courses-list.png)
+![Courses List](screenshots/courses-list.png)
 
 **Update Course**
 
-![Update Course](Screenshots/update-course.png)
+![Update Course](screenshots/update-course.png)
 
 **Delete Course (Before)**
 
-![Delete Before](Screenshots/delete-before.png)
+![Delete Before](screenshots/delete-before.png)
 
 **Delete Course (After)**
 
-![Delete After](Screenshots/delete-after.png)
+![Delete After](screenshots/delete-after.png)
 
 **MongoDB Collections**
 
-![MongoDB Collections](Screenshots/mongodb-collections.png)
+![MongoDB Collections](screenshots/mongodb-collections.png)
 
 ## GitHub Repository
 [https://github.com/sujeetrajbhar681/Course-Management-System](https://github.com/sujeetrajbhar681/Course-Management-System)

@@ -27,33 +27,32 @@ node app.js
 Visit: `http://localhost:4000`
 
 ## Screenshots
+<h3>Register Page</h3>
+<img src="Screenshots/register.png" alt="Register Page" width="600">
 
-**Register Page**
-![Register](Screenshots/register.png)
+<h3>Login Page</h3>
+<img src="Screenshots/login.png" alt="Login Page" width="600">
 
-**Login Page**
-![Login](Screenshots/login.png)
+<h3>Dashboard</h3>
+<img src="Screenshots/dashboard.png" alt="Dashboard" width="600">
 
-**Dashboard**
-![Dashboard](Screenshots/dashboard.png)
+<h3>Add Course</h3>
+<img src="Screenshots/add-course.png" alt="Add Course" width="600">
 
-**Add Course**
-![Add Course](Screenshots/add-course.png)
+<h3>Display Courses</h3>
+<img src="Screenshots/courses-list.png" alt="Courses List" width="600">
 
-**Display Courses**
-![Courses List](Screenshots/courses-list.png)
+<h3>Update Course</h3>
+<img src="Screenshots/update-course.png" alt="Update Course" width="600">
 
-**Update Course**
-![Update Course](Screenshots/update-course.png)
+<h3>Delete Course (Before)</h3>
+<img src="Screenshots/delete-before.png" alt="Delete Before" width="600">
 
-**Delete Course (Before)**
-![Before Delete](Screenshots/delete-before.png)
+<h3>Delete Course (After)</h3>
+<img src="Screenshots/delete-after.png" alt="Delete After" width="600">
 
-**Delete Course (After)**
-![After Delete](Screenshots/delete-after.png)
-
-**MongoDB Collections**
-![MongoDB](Screenshots/mongodb-collections.png)
+<h3>MongoDB Collections</h3>
+<img src="Screenshots/mongodb-collections.png" alt="MongoDB Collections" width="600">
 
 ## GitHub Repository
 [https://github.com/<sujeetrajbhar681>/<https://github.com/sujeetrajbhar681/Course-Management-System.git>](https://github.com/<sujeetrajbhar681>/<https://github.com/sujeetrajbhar681/Course-Management-System.git>)
